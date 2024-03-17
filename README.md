@@ -1,4 +1,4 @@
-/** para ver los archivos usar la version dev (github.dev/bcampdat/CheckPoint-5)  **/
+/** ▷ para ejecutar los ejercicios utiliza  https://www.mycompiler.io/es/new/python  **/
 
 
 
