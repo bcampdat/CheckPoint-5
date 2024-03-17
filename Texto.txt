@@ -1,0 +1,19 @@
+Buenos días Bea, 
+felicidades por haber llegado al CheckPoint 5, 
+este será un poco distinto a los anteriores, 
+
+vas a poder utilizar documentación e información que busques por la web,
+porque el objetivo es que tienes que crear tu una documentación 
+sobre las preguntas que te enviaré a continuación, por lo tanto, 
+tienes que prepararlas para las personas que están iniciando en el mundo del desarrollo
+y estas puedan comprender y aprender con tu material,
+por favor intenta ser lo más detallado posible, 
+colocar ejemplos, para que se utiliza, sintaxis, como se utiliza, etc...
+Recuerda que eres el responsable de crear la documentación que utilizarán los nuevos compañeros de tu equipo
+de programación. También toma en cuenta en hacerlo con las herramientas o software correcto, 
+para la creación de este tipo de material y subirlo a Git-Hub para revisarlo
+
+
+
+
+Esta es toda la asignación, ¡mucha suerte!
