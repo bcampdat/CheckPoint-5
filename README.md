@@ -1,4 +1,5 @@
-/** ▷ para ejecutar los ejercicios utiliza en una pestaña nueva   https://www.mycompiler.io/es/new/python  **/
+/** ▷ para ejecutar los ejercicios utiliza en una pestaña nueva   https://www.mycompiler.io/es/new/python 
+ o si lo prefieres  crea una cuenta en  https://replit.com/languages/online-python-compiler  es gratis 😜 **/
 
 A por ello 💪  eres un crak !!!
 
