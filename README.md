@@ -1,5 +1,5 @@
-/** ▷ para ejecutar los ejercicios utiliza en una pestaña nueva   https://www.mycompiler.io/es/new/python 
- o si lo prefieres  crea una cuenta en  https://replit.com/languages/online-python-compiler  es gratis 😜 **/
+/**  ▷ Descarga los archivos de la carpeta Ejercicios Teóricos y abrelos con Jupyter Online   https://jupyter.org/try-jupyter/lab/  o si solo  prefieres  ejecutar tu codigo utiliza en una pestaña nueva   https://www.mycompiler.io/es/new/python 
+ o si lo prefieres  crea una cuenta en  https://replit.com/languages/online-python-compiler         Es gratis   😜 **/
 
 A por ello 💪  eres un crak !!!
 
